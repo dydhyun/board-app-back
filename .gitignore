@@ -17,8 +17,8 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
-### IntelliJ IDEA ###
-application.properties
+#### IntelliJ IDEA ### 변수명으로 바꾸어 GIT에 올려도 무관해짐
+#application.properties
 
 .idea
 *.iws
